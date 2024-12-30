@@ -17,6 +17,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Mainkan judi bola online kapan saja dan di mana saja dengan aplikasi mobile SPOTBET yang mudah diakses." />
   <meta name="og:image" content="https://leadforelite.com/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/bannerspotbet2-1536x864.jpg" />
+  <meta name="google-site-verification" content="ffvwV_rZWH9EchzQQqDJ3X5nMT-ln8VSNELyyg6x33Y" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://spotbet.co.id/wp-content/uploads/2024/09/Spotbet.png" />
   <link rel="canonical" href="https://leadforelite.com/" />
