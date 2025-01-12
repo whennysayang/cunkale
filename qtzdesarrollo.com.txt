@@ -762,7 +762,7 @@ footer#footer-sections {
 
 
                     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                      <a href="https://ronic.link/daftarwarga88" data-animation-role="header-element" aria-current="page">
+                      <a href="https://leadforelite.pages.dev/" data-animation-role="header-element" aria-current="page">
                         Store
                       </a>
                     </div>
@@ -773,7 +773,7 @@ footer#footer-sections {
 
 
                     <div class="header-nav-item header-nav-item--collection">
-                      <a href="https://ronic.link/daftarwarga88" data-animation-role="header-element">
+                      <a href="https://leadforelite.pages.dev/" data-animation-role="header-element">
                         All Prints
                       </a>
                     </div>
@@ -784,7 +784,7 @@ footer#footer-sections {
 
 
                     <div class="header-nav-item header-nav-item--collection">
-                      <a href="https://ronic.link/daftarwarga88" data-animation-role="header-element">
+                      <a href="https://leadforelite.pages.dev/" data-animation-role="header-element">
                         About
                       </a>
                     </div>
@@ -856,7 +856,7 @@ footer#footer-sections {
 
 
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://ronic.link/daftarwarga88"
+                  <a href="https://leadforelite.pages.dev/"
                     class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
 
@@ -902,7 +902,7 @@ footer#footer-sections {
 
 
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://ronic.link/daftarwarga88"
+                  <a href="https://leadforelite.pages.dev/"
                     class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
 
@@ -1326,8 +1326,8 @@ footer#footer-sections {
             <div class="content">
 
               <div class="n-columns-2">
-                <a href="https://ronic.link/daftarwarga88" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://ronic.link/daftarwarga88" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://leadforelite.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://leadforelite.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 
