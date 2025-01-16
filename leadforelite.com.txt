@@ -1,4 +1,5 @@
 
+
 <!-- Script Landing Page -->
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
@@ -16,14 +17,14 @@
   <meta name="og:title" content="SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Mainkan judi bola online kapan saja dan di mana saja dengan aplikasi mobile SPOTBET yang mudah diakses." />
-  <meta name="og:image" content="https://leadforelite.com/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/bannerspotbet2-1536x864.jpg" />
+  <meta name="og:image" content="https://i.postimg.cc/5yYjhpSK/bannerspotbet1.jpg" />
   <meta name="google-site-verification" content="ffvwV_rZWH9EchzQQqDJ3X5nMT-ln8VSNELyyg6x33Y" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://spotbet.co.id/wp-content/uploads/2024/09/Spotbet.png" />
+  <link rel="shortcut icon" href="https://i.postimg.cc/QdrVzQ9S/icon.webp" />
   <link rel="canonical" href="https://leadforelite.com/" />
   <link rel="amphtml" href="https://leadforelite.pages.dev/" />
   <!-- start preload -->
-  <link rel="preload" href="https://leadforelite.com/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/bannerspotbet2-1536x864.jpg" as="image" />
+  <link rel="preload" href="https://i.postimg.cc/5yYjhpSK/bannerspotbet1.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -160,7 +161,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData ="{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://leadforelite.com/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/bannerspotbet2-1536x864.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    var pdpTrackingData ="{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://i.postimg.cc/5yYjhpSK/bannerspotbet1.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -678,7 +679,7 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile","image":"https://leadforelite.com/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/bannerspotbet2-1536x864.jpg","category":"Game & Video","brand":{"@type":"Brand","name":"SPOTBET","url":"#"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Mainkan judi bola online kapan saja dan di mana saja dengan aplikasi mobile SPOTBET yang mudah diakses.","url":"#","offers":{"@type":"Offer","url":"#","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile","image":"https://i.postimg.cc/5yYjhpSK/bannerspotbet1.jpg","category":"Game & Video","brand":{"@type":"Brand","name":"SPOTBET","url":"#"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Mainkan judi bola online kapan saja dan di mana saja dengan aplikasi mobile SPOTBET yang mudah diakses.","url":"#","offers":{"@type":"Offer","url":"#","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>  
     <script>
     window.__bl ={};
@@ -3151,7 +3152,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
  </div>
  
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile" src="https://leadforelite.com/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/bannerspotbet2-1536x864.jpg"/></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile" src="https://i.postimg.cc/5yYjhpSK/bannerspotbet1.jpg"/></div></div>
 	<a href="https://leadforelite.pages.dev/" rel="nofollow noopener" target="_blank"><img src="https://leadforelite.com/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/bannerspotbet3.gif" width="100%" height="auto" alt=""></a>
 	</div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SpotBet ~ Situs Judi Bola Online dengan Akses Mudah di Mobile</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">SPOTBET</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
 	<div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="#">SPOTBET</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
