@@ -18,7 +18,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="SPOTBET menawarkan berbagai metode pembayaran yang cepat dan aman untuk kenyamanan transaksi Anda." />
   <meta name="og:image" content="https://i.postimg.cc/5yYjhpSK/bannerspotbet1.jpg" />
-  <meta name="google-site-verification" content="4aubky6SBsJwzS3wf_A76OKqXYgrrXGLWSGwTUAQhpA" />
+  <meta name="google-site-verification" content="dWuKFshLV-RWeKK4498J9y-gnK7GLi8DvQCaHLxAr-I" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.postimg.cc/QdrVzQ9S/icon.webp" />
   <link rel="canonical" href="https://campusabanico.com.ar/" />
