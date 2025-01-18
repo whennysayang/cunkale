@@ -18,7 +18,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="SpotBet adalah platform terpercaya untuk bermain slot online dengan fitur lengkap, pilihan game menarik, dan bonus melimpah. Dapatkan pengalaman bermain yang aman dan nyaman dengan akses login mudah dan cepat." />
   <meta name="og:image" content="https://i.postimg.cc/5yYjhpSK/bannerspotbet1.jpg" />
-  <meta name="google-site-verification" content="dWuKFshLV-RWeKK4498J9y-gnK7GLi8DvQCaHLxAr-I" />
+  <meta name="google-site-verification" content="qEmshrWvSqvyHrw340hv8J5BTXIHYbOOmuIlkJkJVao" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.postimg.cc/QdrVzQ9S/icon.webp" />
   <link rel="canonical" href="https://studyonline.lk/" />
