@@ -17,7 +17,7 @@
   <meta name="geo.placename" content="Indonesia">
   <meta name="og:description" content="SpotBet adalah platform judi slot online terpercaya di Indonesia yang menyediakan login mudah, RTP tinggi, serta aplikasi praktis lewat SpotBet APK dan SpotBet App." />
   <meta name="og:image" content="https://i.postimg.cc/MZFWJ4yy/spotbet8.jpg" />
-  <meta name="google-site-verification" content="nsHbnUtofE-Atxzuy4boKK8DsFB-bISWFP9q2TRI6jU" />
+  <meta name="google-site-verification" content="gY07l2ZgSP5Cfml4o4UQ5l1K0Z_M-zC8hvjz3KOZLHk" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.postimg.cc/2Sjg89DH/spotbet.png" />
   <link rel="canonical" href="https://www.lidotirreno.com/" />
