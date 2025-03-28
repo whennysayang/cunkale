@@ -21,7 +21,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
         <meta name="theme-style-mode" content="0">
-    <title>4gtools</title>
        
         <meta name='robots' content='max-image-preview:large' />
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
@@ -585,7 +584,7 @@ img.logo-dark-mode {
                     <div class="header-info">
                           <div class="logo">
             <a href="https://4gtools.com/"
-           title="4gtools" rel="home">
+           title="SLOT88: Situs Slot Gacor Super Maxwin Terpercaya & 4gtools Courses Photoshop" rel="home">
                                                 <img width="px" height="px" src="https://4gtools.com/wp-content/uploads/2025/01/logo-150x150-1.png"
                          alt="4gtools" class="logo-normal logo-light-mode">
                     
@@ -1994,7 +1993,7 @@ img.logo-dark-mode {
             <div class="content">
                   <div class="logo">
             <a href="https://4gtools.com/"
-           title="4gtools" rel="home">
+           title="SLOT88: Situs Slot Gacor Super Maxwin Terpercaya & 4gtools Courses Photoshop" rel="home">
                                                 <img width="px" height="px" src="https://4gtools.com/wp-content/uploads/2025/01/logo-150x150-1.png"
                          alt="4gtools" class="logo-normal logo-light-mode">
                     
